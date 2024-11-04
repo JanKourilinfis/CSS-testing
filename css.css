@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+body{
+    font-size: 30px;
+    font-family: 'Dancing Script';;
+}
+.red{
+    color: red;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace
+}
+.blue{
+    color: blue;
+    font-weight: bold;
+
+}
+.purple{
+    color: purple;
+    /*baf*/
+    font-style: italic;
+}
+#first{
+    color: darkblue;
+}
+.mark{
+    background-color: brown;
+}
